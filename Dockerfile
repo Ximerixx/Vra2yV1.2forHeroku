@@ -8,7 +8,7 @@ RUN set -ex\
     && apt install -y nginx\
     && apt autoremove -y
 
-COPY wwwroot.tar.gz /wwwroot/wwwroot.tar.gz
+COPY wwwroot.tar /wwwroot/wwwroot.tar
 COPY conf/ /conf
 COPY entrypoint.sh /entrypoint.sh
 
