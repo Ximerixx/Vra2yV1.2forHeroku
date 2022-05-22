@@ -45,7 +45,7 @@ mv v2ray-plugin_linux_amd64 /usr/bin/v2ray-plugin
 rm -rf /v2raybin
 
 cd /wwwroot
-tar xvf wwwroot.tar
+tar -xf wwwroot.tar
 rm -rf wwwroot.tar
 
 if [ ! -d /etc/shadowsocks-libev ]; then  
