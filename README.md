@@ -1,4 +1,4 @@
-# Personal VPN
+# Personal Xopn
 ## Shadowsocks+V2Ray-plugin
 
 Click the button below to deploy, and remember to order a Star if it works:
