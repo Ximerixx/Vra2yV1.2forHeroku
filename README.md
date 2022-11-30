@@ -4,6 +4,9 @@
 Click the button below to deploy, and remember to order a Star if it works:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Ximerixx/Vra2yV1.2forHeroku)
+
+**FREE DYNOS ARE DISCONTINUED**
+
 ---
 
 Native V2Ray deployment: <https://github.com/ygcaicn/v2ray-heroku>
